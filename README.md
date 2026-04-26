@@ -1,2 +1,2 @@
 # cyclone_energetics
-Senior Thesis project
+Senior Thesis: The Role of Radiative Processes on Cyclone Energetics
